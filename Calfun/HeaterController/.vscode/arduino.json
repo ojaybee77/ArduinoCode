@@ -1,0 +1,6 @@
+{
+    "port": "COM50",
+    "board": "arduino:avr:uno",
+    "programmer": "avrisp",
+    "sketch": "HeaterController.ino"
+}

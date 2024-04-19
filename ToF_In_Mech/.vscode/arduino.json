@@ -1,0 +1,7 @@
+{
+    "configuration": "PartitionScheme=default,PinNumbers=default,USBMode=default",
+    "board": "arduino:esp32:nano_nora",
+    "programmer": "esptool",
+    "port": "COM45",
+    "sketch": "ToF_In_Mech.ino"
+}

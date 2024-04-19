@@ -1,0 +1,7 @@
+{
+    "configuration": "PartitionScheme=default,PinNumbers=default,USBMode=default",
+    "board": "arduino:esp32:nano_nora",
+    "port": "COM39",
+    "programmer": "esptool",
+    "sketch": "CalfunController.ino"
+}

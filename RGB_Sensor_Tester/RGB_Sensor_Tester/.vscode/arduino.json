@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "arduinoisp",
+    "port": "COM37",
+    "sketch": "RGB_Sensor_Tester.ino"
+}
